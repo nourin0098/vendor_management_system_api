@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'vendor',
     'purchaseorder',
+    'vendorperformance',
     'rest_framework'
 ]
 
